@@ -2,7 +2,11 @@
 Nama : Siti Aisah<BR/>
 Nim : 09011182328014<BR/>
 Kelas : SK3B
-# Tugas Praktikum 3
+<h1>Laporan Praktikum Sistem File</h1>
+<h2>Latar Belakang</h2>
+<p>Sistem file (file system) atau sistem berkas merupakan struktur logika yang digunakan untuk mengendalikan akses terhadap data yang ada pada disk. Dengan kata lain, sistem file merupakan database khusus untuk penyimpanan, pengelolaan, manipulasi dan pengambilan data, agar mudah ditemukan dan diakses.
+
+Hubungan antara sistem operasi dengan sistem file adalah sistem file merupakan interface yang menghubungkan sistem operasi dengan disk. Ketika program menginginkan pembacaan dari hard disk atau media penyimpanan lainnya, sistem operasi akan meminta sistem file untuk mencari lokasi dari file yang diinginkan. Setelah file ditemukan, sistem file akan membuka dan membaca file tersebut, kemudian mengirimkan informasinya kepada sistem operasi dan akhirnya bisa dibaca oleh pengguna.</p>
 <p>1. Lihat peralatan I/O, character device, yang ada pada system komputer.</p>
 <p>2. Buatlah sub direktori januari, februari dan maret sekaligus pada direktori latihan5.</p>
 <p>3. Buatlah file dataku yang berisi nama, nim dan alamat anda pada sub direktori januari
